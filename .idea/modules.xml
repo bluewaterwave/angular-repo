@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/angular-repo.iml" filepath="$PROJECT_DIR$/angular-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/angular-repo.iml" filepath="$PROJECT_DIR$/.idea/angular-repo.iml" />
     </modules>
   </component>
 </project>
